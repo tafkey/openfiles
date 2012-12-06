@@ -5,3 +5,14 @@
 
 
 - trying to implement workflow with anonymous publishing
+
+
+$ git clone
+(alternatively) 
+$ git pull
+$ drush sql-drop
+$ drush sql-cli
+sqlite> .restore db.backup
+sqlite> .quit
+
+try chmod -R 777 if you get no response...
