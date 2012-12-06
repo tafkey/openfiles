@@ -6,6 +6,7 @@ cache/
 # files/
 # sites/*/files
 # sites/*/private
+sites/default/files/dr717.sqlite
 
 # Ignore default text files
 #.htaccess
